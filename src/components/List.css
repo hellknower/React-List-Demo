@@ -1,0 +1,12 @@
+.head{
+    padding:12px 24px;
+}
+.head .button{
+    margin-top:8px;
+}
+.list .button{
+    margin:0 8px;
+}
+.list .content{
+    width:1000px;
+}
